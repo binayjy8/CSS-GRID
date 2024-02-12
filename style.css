@@ -1,0 +1,11 @@
+.container {
+    height: 600px;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+.item {
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
