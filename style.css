@@ -9,10 +9,12 @@
 }
 
 .item {
-    height: 50px;
-    width: 100px;
     border: 2px solid black;
     text-align: center;
     background-color: white;
     border-radius: 5px;
+}
+
+.one {
+    grid-column: 1/3;
 }
