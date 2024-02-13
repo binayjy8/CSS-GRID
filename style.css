@@ -3,6 +3,9 @@
     width: 600px;
     background-color: blueviolet;
     display: grid;
+    grid-template-rows:repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    border-radius: 5px;
 }
 
 .item {
@@ -11,4 +14,5 @@
     border: 2px solid black;
     text-align: center;
     background-color: white;
+    border-radius: 5px;
 }
