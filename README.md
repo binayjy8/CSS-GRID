@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta the author and the origina
+Binay Bhusan Mohanta the author and the origin
