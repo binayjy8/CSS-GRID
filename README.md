@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta to the vice
+Binay Bhusan Mohanta to the vic
