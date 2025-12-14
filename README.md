@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta is the author of this project
+Binay Bhusan Mohanta is the author of this projec
