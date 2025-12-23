@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta is the ed
+Binay Bhusan Mohanta is the edi
