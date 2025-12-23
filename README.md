@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta is the editing superwtar
+Binay Bhusan Mohanta is the editing superwta
