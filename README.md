@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta the github repositor
+Binay Bhusan Mohanta the github repository
