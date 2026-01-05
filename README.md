@@ -1,1 +1,1 @@
-hBinay Bhusan Mohanta is the autho
+hBinay Bhusan Mohanta is the author
