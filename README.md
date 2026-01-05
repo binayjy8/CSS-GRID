@@ -1,1 +1,1 @@
-hBinay Bhusan Mohanta is the auth
+hBinay Bhusan Mohanta is the autho
