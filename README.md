@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta is the actu
+Binay Bhusan Mohanta is the act
