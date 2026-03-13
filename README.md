@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta the allocation appl
+Binay Bhusan Mohanta the allocation app
