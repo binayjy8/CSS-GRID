@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta the allc
+Binay Bhusan Mohanta the alloc
