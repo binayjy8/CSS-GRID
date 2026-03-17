@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta asyron
+Binay Bhusan Mohanta asyrono
