@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta the author and test automaticall
+Binay Bhusan Mohanta the author and test automatically
