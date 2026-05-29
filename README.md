@@ -1,1 +1,1 @@
-Binay Bhusan Mohanta is the coder and after this will be the project and the glimp
+Binay Bhusan Mohanta is the coder and after this will be the project and the glimps
